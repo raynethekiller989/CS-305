@@ -1,1 +1,6 @@
 # CS-305
+Artemis Financial is a firm focused on developing financial services that allow consumers to choose plans tailored to their needs. They are also prioritizing security to ensure that information is transferred securely and to prevent unauthorized access. I appreciated conducting dependency testing to identify vulnerabilities. It's essential to write secure code to minimize the risk of weaknesses that could be exploited by hackers. Strong software security enhances a company’s credibility and fosters trust, attracting more clients.
+
+One challenge I faced during the vulnerability assessment was identifying false positives. To strengthen security, I created an SSL certificate and ensured the project utilized HTTP posts. Looking ahead, I plan to focus on assessing vulnerabilities and determining mitigation techniques by accurately identifying false positives.
+
+To verify that the code and software application were functional and secure, I ran the project multiple times, including dependency checks. After refactoring the code, I ran the project again to detect any new vulnerabilities. A valuable resource for me in the future will be viewing projects in the web browser within Eclipse. One assignment I’d like to highlight is my Vulnerability Assessment Report, where I demonstrated my ability to find and interpret relevant information.
